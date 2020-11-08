@@ -37,6 +37,8 @@ _n<sub>1</sub> * d<sub>2</sub>_ and _n<sub>2</sub> * d<sub>1</sub>_
 ```json
 {
     "username": "garethsb",
+    "answer": 42,
+    "dat": true
 }
 ```
 
