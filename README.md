@@ -17,3 +17,7 @@ n<sub>1</sub> / d<sub>1</sub>
 `n`<sub>`1`</sub>` / d`<sub>`1`</sub>
 
 _n<sub>1</sub> * d<sub>2</sub>_ and _n<sub>2</sub> * d<sub>1</sub>_
+
+| A | B |
+|---|---|
+|a<br>a<br>a|b<br>b<br>b|
