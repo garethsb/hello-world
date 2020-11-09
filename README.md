@@ -34,6 +34,30 @@ _n<sub>1</sub> * d<sub>2</sub>_ and _n<sub>2</sub> * d<sub>1</sub>_
 </td>
 <td>
 
+```json
+{
+    "username": "garethsb",
+    "answer": 42,
+    "dat": true
+}
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+400
+
+</td>
+<td>
+
+**Markdown** _here_. (Blank lines needed before and after!)
+
+</td>
+</tr>
+</table>
+
 <table>
 <tr><th>Receiver Caps</th><th>Query API - RQL</th></tr>
 <tr><td>
@@ -111,7 +135,7 @@ _n<sub>1</sub> * d<sub>2</sub>_ and _n<sub>2</sub> * d<sub>1</sub>_
 
   in(media_type,(video%2fraw)),
 
- or(
+  or(
     and(
 
       eq(components,sampling:YCbCr-4%3a2%3a2),
@@ -166,28 +190,4 @@ _n<sub>1</sub> * d<sub>2</sub>_ and _n<sub>2</sub> * d<sub>1</sub>_
 ```
 
 </td></tr>
-</table>
-
-```json
-{
-    "username": "garethsb",
-    "answer": 42,
-    "dat": true
-}
-```
-
-</td>
-</tr>
-<tr>
-<td>
-
-400
-
-</td>
-<td>
-
-**Markdown** _here_. (Blank lines needed before and after!)
-
-</td>
-</tr>
 </table>
