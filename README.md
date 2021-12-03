@@ -18,6 +18,8 @@ n<sub>1</sub> / d<sub>1</sub>
 
 _n<sub>1</sub> * d<sub>2</sub>_ and _n<sub>2</sub> * d<sub>1</sub>_
 
+This is a sentence introducing <a name="table1">Table 1</a>.
+
 | A | B |
 |---|---|
 |a<br>a<br>a|b<br>b<br>b|
